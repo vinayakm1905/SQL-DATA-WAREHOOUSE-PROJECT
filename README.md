@@ -37,5 +37,7 @@ Customer Behavior
 Product Performance
 Sales Trends
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
+<img width="1456" height="737" alt="image" src="https://github.com/user-attachments/assets/6d893489-3d19-4d8d-b3de-db653c908217" />
+
 
 
